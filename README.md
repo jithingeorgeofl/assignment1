@@ -53,7 +53,7 @@ This will be the `Extension` of the person class. This class will have the follo
 
 ## `Representation of the Idea`:
 
-
+<img src="https://github.com/jithingeorgeofl/assignment1/blob/main/school.png"/>
 
 
 
