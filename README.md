@@ -26,7 +26,7 @@ This will contain the following details:
 This is an implementation of the standard interface.
 We can put in extra parameters/calculations in this class which will help us in retrieving the functions of the parent interface down the line.
 
-##`School Interface`
+## `School Interface`
 
 This interface is the blueprint to get the following details:
 
@@ -35,23 +35,23 @@ This interface is the blueprint to get the following details:
 - `School ID`
 - `Array of "StandardImpl" to be stored`
 
-## SchoolImpl
+## `SchoolImpl`
 
 This is an implementation of the school interface, this will help us in retriving the details that the `School Interface` had 
 mentioned as abstract.
 
-## Student
+## `Student`
 
 This will be the `Extension` of the person class. This class will have the following details:
 
 - `Variable to hold the School Interface` : this will in turn store the SchoolImpl in our case, This can be changed as per the requirements down the line.
 
-### Sudent Specific parameters:
+### `Sudent Specific parameters`:
 - `Id` : Id of the school
 - `isDayScholar`
 
 
-## Representation of the Idea:
+## `Representation of the Idea`:
 
 
 
