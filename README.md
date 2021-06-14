@@ -33,8 +33,25 @@ This interface is the blueprint to get the following details:
 - `School Name`
 - `School Address`
 - `School ID`
-- `Array of <b>Standard</b> Impl to be stored`
+- `Array of "StandardImpl" to be stored`
 
+## SchoolImpl
+
+This is an implementation of the school interface, this will help us in retriving the details that the `School Interface` had 
+mentioned as abstract.
+
+## Student
+
+This will be the `Extension` of the person class. This class will have the following details:
+
+- `Variable to hold the School Interface` : this will in turn store the SchoolImpl in our case, This can be changed as per the requirements down the line.
+
+### Sudent Specific parameters:
+- `Id` : Id of the school
+- `isDayScholar`
+
+
+## Representation of the Idea:
 
 
 
