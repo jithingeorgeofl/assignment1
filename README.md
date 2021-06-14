@@ -2,5 +2,5 @@
 
 ## `Person Class`
 
-This class is declared to store the gender, age and name 
+This class is declared to store the `gender`, `age` and `name` 
 
