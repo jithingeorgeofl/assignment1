@@ -17,10 +17,26 @@ For instance we will store names of three classes as follows:
 
 This interface is used to represent the structure of the performance of the student in a particular grade.
 This will contain the following details:
-- `float firsTermMarks` : This stores the first term marks of a student 
-- `float secondTermMarks` : This stores the second term marks of a student
-- `boolean isOngoing` : This is basically to know if the student has completed the grade.
+- `firsTermMarks` : This is used to get the first term marks of a student 
+- `secondTermMarks` : This is used to get the second term marks of a student
+- `isOngoing` : This is basically to know if the student has completed the grade.
 
-## 
+## `Standard IMPL`
+
+This is an implementation of the standard interface.
+We can put in extra parameters/calculations in this class which will help us in retrieving the functions of the parent interface down the line.
+
+##`School Interface`
+
+This interface is the blueprint to get the following details:
+
+- `School Name`
+- `School Address`
+- `School ID`
+- `Array of <b>Standard</b> Impl to be stored`
+
+
+
+
 
 
