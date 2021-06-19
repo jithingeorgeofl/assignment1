@@ -1,9 +1,7 @@
 package person;
 
 /**
- * 
- * 
- * 
+ * This enum was created to point out the gender of the person 
  * 
  * @author JITHIN GEORGE
  *
