@@ -4,10 +4,12 @@ import school.BaseSchool;
 import school.BaseStandard;
 import school.Grades;
 import school.StandardInterface;
+import student.Student;
 
 public class EntryPoint {
 	
 	public static void main(String []args) {
+		
 		
 		StandardInterface[]  standards = {
 				
@@ -28,14 +30,16 @@ public class EntryPoint {
 				
 		};
 		
-		BaseSchool donBosco = new BaseSchool(
+		
+		Student s = Student.instance(new BaseSchool(
 				
 				"Donboaco",
 				"vaduthala",
 				"T123",
 				standards
 			
-				);
+				));
+		
 		
 		
 	}
