@@ -10,8 +10,8 @@ public class BaseSchool implements SchoolInterface {
 	
 	public BaseSchool(
 			String schoolName,
-			String schoolID,
 			String schoolAddress,
+			String schoolID,
 			StandardInterface[] grades
 			) {
 		
