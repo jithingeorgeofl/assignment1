@@ -47,7 +47,6 @@ This will be the `Extension` of the person class. This class will have the follo
 - `Variable to hold the School Interface` : this will in turn store the BaseShool in our case, This can be changed as per the requirements down the line.
 
 ### `Sudent Specific parameters`:
-- `Id` : Id of the school
 - `isDayScholar`
 
 
