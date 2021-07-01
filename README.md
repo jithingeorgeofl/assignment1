@@ -44,7 +44,7 @@ mentioned as abstract.
 
 This will be the `Extension` of the person class. This class will have the following details:
 
-- `Variable to hold the School Interface` : this will in turn store the SchoolImpl in our case, This can be changed as per the requirements down the line.
+- `Variable to hold the School Interface` : this will in turn store the BaseShool in our case, This can be changed as per the requirements down the line.
 
 ### `Sudent Specific parameters`:
 - `Id` : Id of the school
