@@ -13,11 +13,10 @@
     <sourceDirectory>src</sourceDirectory>
   </build>
  <dependencies>  
-   <dependency>
-  <groupId>org.junit</groupId>
-  <artifactId>junit</artifactId>
+   <groupId>junit</groupId>     <!-- NOT org.junit here -->
+  <artifactId>junit-dep</artifactId>
   <version>4.8.2</version>
-</dependency> 
+  <scope>test</scope>
   </dependencies> 
 </project>
 
