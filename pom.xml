@@ -11,7 +11,7 @@
   
   <build>
     <sourceDirectory>src</sourceDirectory>
-    <testSourceDirectory>src/test/junit</testSourceDirectory>
+    <testSourceDirectory>src/test</testSourceDirectory>
   </build>
   
  <dependencies>  
