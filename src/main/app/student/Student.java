@@ -1,8 +1,8 @@
 package student;
 
-import person.Person;
-import school.BaseSchool;
-import school.SchoolInterface;
+import student.person.Person;
+import student.school.BaseSchool;
+import student.school.SchoolInterface;
 
 public class Student extends Person{
 	
