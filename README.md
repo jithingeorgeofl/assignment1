@@ -52,7 +52,7 @@ This will be the `Extension` of the app.person class. This class will have the f
 
 ## `Representation of the Idea`:
 
-<img src="https://github.com/jithingeorgeofl/assignment1/blob/main/app.school.png"/>
+<img src="https://github.com/jithingeorgeofl/assignment1/blob/main/school.png"/>
 
 
 
