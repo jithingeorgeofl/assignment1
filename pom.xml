@@ -10,8 +10,13 @@
 </properties>
   
   <build>
+<<<<<<< HEAD
     <sourceDirectory>src/school</sourceDirectory>
     <testSourceDirectory>src/test</testSourceDirectory>
+=======
+    <sourceDirectory>src</sourceDirectory>
+    <testSourceDirectory>src</testSourceDirectory>
+>>>>>>> 59809af6089c7d8b028cdf259dacf397b5fafcd7
   </build>
   
  <dependencies>  
