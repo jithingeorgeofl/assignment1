@@ -3,12 +3,12 @@ package test.junit;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import person.Gender;
-import school.BaseSchool;
-import school.BaseStandard;
-import school.Grades;
-import school.StandardInterface;
 import student.Student;
+import student.person.Gender;
+import student.school.BaseSchool;
+import student.school.BaseStandard;
+import student.school.Grades;
+import student.school.StandardInterface;
 
 class StudentTest {
 	

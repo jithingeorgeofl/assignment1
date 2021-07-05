@@ -1,4 +1,4 @@
-package school;
+package student.school;
 
 public class BaseSchool implements SchoolInterface {
 

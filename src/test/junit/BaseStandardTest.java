@@ -5,8 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import school.BaseStandard;
-import school.Grades;
+import student.school.BaseStandard;
+import student.school.Grades;
 
 class BaseStandardTest {
 	

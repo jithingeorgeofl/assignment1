@@ -3,8 +3,8 @@ import static org.junit.Assert.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import person.Gender;
-import person.Person;
+import student.person.Gender;
+import student.person.Person;
 
 class PersonTest {
 	

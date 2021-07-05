@@ -4,10 +4,11 @@ import static org.junit.Assert.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import school.BaseSchool;
-import school.BaseStandard;
-import school.Grades;
-import school.StandardInterface;
+import student.school.BaseSchool;
+import student.school.BaseStandard;
+import student.school.Grades;
+import student.school.StandardInterface;
+
 
 class BaseSchoolTest {
 	

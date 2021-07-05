@@ -1,4 +1,4 @@
-package person;
+package student.person;
 /**
  * This is to store the details of the person 
  * 
