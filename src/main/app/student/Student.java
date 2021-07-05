@@ -1,12 +1,12 @@
 package student;
 
-import student.person.Person;
-import student.school.BaseSchool;
-import student.school.SchoolInterface;
+import person.Person;
+import school.BaseSchool;
+import school.SchoolInterface;
 
-public class Student extends Person{
+public class Student extends Person {
 	
-	public SchoolInterface school;	
+	public SchoolInterface school;
 	
 	private boolean isDayScholar = false;
 
