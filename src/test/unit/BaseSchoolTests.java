@@ -55,8 +55,6 @@ class BaseSchoolTests {
         assertTrue(
                 base.getSchoolName().equals("Don Bosco")
         );
-
-        assertTrue(false);
     }
 
 
